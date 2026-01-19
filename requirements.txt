@@ -1,0 +1,2 @@
+# Python dependencies for Sales Analytics System
+requests>=2.31.0

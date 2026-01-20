@@ -132,7 +132,7 @@ Do you want to filter data? (y/n): n
 ✓ Fetched 30 products
 
 [7/10] Enriching sales data...
-✓ Enriched 701/70 transactions (100%)
+✓ Enriched 70/70 transactions (100%)
 
 [8/10] Saving enriched data...
 ✓ Saved to: data/enriched_sales_data.txt
